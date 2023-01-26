@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="left">
+<p align="left">Tools & Technology</p>
+<img src="https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android" />
+<img src="https://img.shields.io/badge/kotlin-21262D?style=for-the-badge&logo=kotlin" />
+</div>
 
-<!--
-**mdrlzy/mdrlzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdrlzy&show_icons=true&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![](https://komarev.com/ghpvc/?username=mdrlzy)
